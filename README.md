@@ -18,4 +18,4 @@ Once you have this file, go to `http://localhost:8888` in your browser and navig
 1. Create a class for `cat` that `extends` `animal` and has three additional properties.  Echo all six of `cat`s properties to the browser.
 1. Get php to `echo` three simple math problems and their solutions.
 1. Create an array of 7 numbers, and print all the values out to page.
-1. Create an associative array of three names and their ages.
+1. Create an associative array of three names and their ages, and print all the names and ages out to page.
