@@ -1,6 +1,6 @@
 # PHP Exercises
 
-Now that we know the basics of PHP, see how many of the following tasks you can accomplish.  Use the [previous lesson](ttps://github.com/den-wdi-2/php-intro) as a resource.
+Now that we know the basics of PHP, see how many of the following tasks you can accomplish.  Use the [previous lesson](ttps://github.com/den-materials/php-intro) as a resource.
 
 ## The Tasks
 
